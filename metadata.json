@@ -1,0 +1,6 @@
+{
+  "name": "LUMÉRA — Luxury Skincare & Rituals",
+  "description": "Discover premium luxury skincare crafted to nourish, hydrate, and reveal your natural glow with clean botanical formulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
